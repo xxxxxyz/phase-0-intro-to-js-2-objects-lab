@@ -16,8 +16,7 @@ in Visual Studio Code.
 
 ## Instructions
 
-Follow the steps below, running `learn test` as you go to get additional
-information from the tests.
+Follow the steps below.
 
 Let's say we are working on a program that will keep track of a company's
 employees. We want to store each `employee` as an `Object`. We're starting
